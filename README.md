@@ -1,3 +1,6 @@
+# Tutorial 9 Reflection
+Fathan Naufal Adhitama (2206825965) - Pemrograman Lanjut A
+
 1. What are the key differences between unary, server streaming, and bi-directional streaming RPC (Remote Procedure Call) methods, and in what scenarios would each be most suitable?<br>
 
 > - `Unary RPC` adalah format yang paling sederhana dalam RPC di mana klien mengirimkan permintaan ke server dan menunggu untuk menerima respons dari server. Biasanya digunakan dalam skenario permintaan-respons yang sederhana di mana tidak ada interaksi tambahan dengan data permintaan yang diperlukan, seperti pengambilan data tertentu dari server.
